@@ -1,5 +1,13 @@
 # lifespan
 
+## Next features
+
+- ~~Divide the calendar by week~~
+- Divide the calendar by month
+- Add dates to calendar
+- Add periods in the calendar
+- Add dates from a file in JSON format
+
 ## Resources
 
 [Life Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
