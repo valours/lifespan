@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lifespan/static/css/main.073c9b0a.css",
+    "main.js": "/lifespan/static/js/main.be24726a.js",
+    "static/js/787.87528ceb.chunk.js": "/lifespan/static/js/787.87528ceb.chunk.js",
+    "static/media/logo.svg": "/lifespan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lifespan/index.html",
+    "main.073c9b0a.css.map": "/lifespan/static/css/main.073c9b0a.css.map",
+    "main.be24726a.js.map": "/lifespan/static/js/main.be24726a.js.map",
+    "787.87528ceb.chunk.js.map": "/lifespan/static/js/787.87528ceb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.be24726a.js"
+  ]
+}
